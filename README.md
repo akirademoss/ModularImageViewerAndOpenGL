@@ -1,6 +1,4 @@
 # ModularImageViewerAndOpenGL
-
-## Basic Overview
 After playing around with JUCE for a couple days, I realized there were some major drawbacks to the layout system.  After some researching (okay, I admit, just a lot of google searching) I was fortunate enough to encounter several clever folks had drafted up  some solutions to this issue so here is a basic proof of concept illustrating the usefulness of these dock-able windows developed by [Jim](https://github.com/jcredland) with a tangible use case developed by myself. If you view the [Demo Video](https://www.youtube.com/watch?v=wiGaL7ElxRE), you will notice the window will update when an image file is selected.  In future work, we would like to additionally update the window so that the OpenGL View updates when a .obj file is selected, but for now we demonstrate the proof of concept with an image viewer.
 
 ## Initial Screen
